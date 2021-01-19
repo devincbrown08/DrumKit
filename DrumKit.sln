@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{F9321B82-D1D5-4BA6-BE10-C489BA7EEF56}"
+	ProjectSection(SolutionItems) = preProject
+		images\crash.png = images\crash.png
+		images\kick.png = images\kick.png
+		images\snare.png = images\snare.png
+		images\tom1.png = images\tom1.png
+		images\tom2.png = images\tom2.png
+		images\tom3.png = images\tom3.png
+		images\tom4.png = images\tom4.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sounds", "sounds", "{CDD308D9-C52E-4B9E-B61F-F6501CCA44EB}"
+	ProjectSection(SolutionItems) = preProject
+		sounds\crash.mp3 = sounds\crash.mp3
+		sounds\kick-bass.mp3 = sounds\kick-bass.mp3
+		sounds\snare.mp3 = sounds\snare.mp3
+		sounds\tom-1.mp3 = sounds\tom-1.mp3
+		sounds\tom-2.mp3 = sounds\tom-2.mp3
+		sounds\tom-3.mp3 = sounds\tom-3.mp3
+		sounds\tom-4.mp3 = sounds\tom-4.mp3
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{844659B1-A5B8-4ADA-8D30-652ECE9A68D5}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+		index.js = index.js
+		styles.css = styles.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF8F13EA-B09B-4F2C-A548-D2456CFA9C4F}
+	EndGlobalSection
+EndGlobal
